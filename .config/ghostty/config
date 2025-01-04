@@ -1,0 +1,35 @@
+# Font
+font-family = "JetBrainsMono Nerd Font Mono"
+font-style-bold=true
+font-feature=-calt # Disable contextual alternates
+font-size = 16
+# bold-is-bright = true # Bold text is bright
+# font-thicken = true # Enable font thicken
+
+# Theme
+theme = light:/GruvboxLight,dark:OneHalfDark
+
+# MacOS
+# macos-option-as-alt = true
+# macos-titlebar-style = tabs
+
+# Clipboard
+clipboard-read = "allow"
+clipboard-paste-protection = false
+
+# Window
+# window-theme = auto
+# window-decoration = false
+# quit-after-last-window-closed = true
+
+# Background
+# background = 11111B
+# background-opacity = 1
+
+# Cursor
+cursor-style = block
+cursor-color = D20F39
+adjust-cursor-thickness = 1
+
+# Other
+title = "Ghostty 👻"
